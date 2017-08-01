@@ -1,0 +1,21 @@
+.h3{
+margin: 0 auto;
+margin-left: 32%;
+
+}
+
+.h5{
+  margin: 0 160px 0 160px;
+  font-weight: 400;
+  padding: 20px 0 5px 0
+}
+
+#now{
+background-color: white;
+margin-top: 18px;
+margin-bottom: -31px;
+}
+
+.read{
+  margin-left: 15%;
+}
